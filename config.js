@@ -5,13 +5,13 @@ const OriginalOwner = '557998295668'
 // mude para seu numero
 
 const msgwelcomeimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nEscreve ${prefix}menu para lista de comandos`
+    return `Seja bem-vindo ${numero}\n\nEscreve ${prefix}Ao grupo`
 }
 //Texto de boas vindas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `Adeus ${numero}`
+    return `VLW TROUXA NEM PAGOU BABÃO EM LAUAN${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
