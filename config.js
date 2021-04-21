@@ -25,7 +25,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyporn = 'api key do imgbb, crie sua conta e pegue a key'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '🌹𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🌹\n' 
+const cr = '†-🌹𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🌹-†\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -91,7 +91,7 @@ const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a 
 // MENSAGENS DE AUTOREPLY
 
 const gostoso = 'Lauan e muito 😎😎'
-const gays = 'Lauan e Luciano casal de gay mais bem unidos do mundo 
+const gays = 'Lauan e Luciano casal de gay mais bem unidos do mundo'
 const aninha = 'A a mais braba'
 const Aninha = 'O trabequinho do grupo'
 const lili = 'sla'
